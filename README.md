@@ -1,6 +1,10 @@
 ## Hi there 👋 I am Ishani Sengupta
 # 💫 About Me:
- 👋 Hi! I am Ishani Sengupta<br>🔭 I'm currently pursuing B.Tech in CSE <br> 💻 I enjoy building web applications, exploring AI, and solving algorithmic problems.  <br>🚀 Currently diving deeper into:- 🧠 Machine Learning & AI<br><br>- ⚛️ React.js & Frontend Development<br>- 🧩 Data Structures and Algorithms<br><br>🛠️ Tech Stack<br>- Languages: C++, JavaScript, Python  <br>- Frontend: HTML, CSS, Javascript, React  <br>-Pandas, Numpy, Matlplotlib<br>
+ 👋 Hi! I am Ishani Sengupta<br>🔭 I'm currently pursuing B.Tech in CSE <br> 💻 I enjoy building web applications, exploring AI, and solving algorithmic problems. 🚀 Currently diving deeper into:<br>
+• 🧠 Machine Learning & AI<br>
+• ⚛️ React.js & Frontend Development<br>
+• 🧩 Data Structures and Algorithms<br>
+<br>🛠️ Tech Stack<br>- Languages: C++, JavaScript, Python  <br>- Frontend: HTML, CSS, Javascript, React  <br>-Pandas, Numpy, Matlplotlib<br>
 
 
 ## 🌐 Socials:
