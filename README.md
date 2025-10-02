@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Ishani Sengupta
-# 💫 About Me:
+# About Me:
  👋 Hi! I am Ishani Sengupta<br>🔭 I'm currently pursuing B.Tech in CSE <br> 💻 I enjoy building web applications, exploring AI, and solving algorithmic problems. <br> 🚀 Currently diving deeper into:<br>
 • 🧠 Machine Learning & Generative AI<br>
 • ⚛️ React.js & Frontend Development<br>
