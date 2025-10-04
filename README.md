@@ -5,6 +5,7 @@
 • ⚛️ React.js & Frontend Development<br>
 • 🧩 Data Structures and Algorithms<br>
 <br>🛠️ Tech Stack<br>- Languages: C++, JavaScript, Python  <br>- Frontend: HTML, CSS, Javascript, React  <br>-Pandas, Numpy, Matlplotlib<br>
+• ✉️  You can contact me at ishanisengupta006@gmail.com
 
 
 ## 🌐 Socials:
